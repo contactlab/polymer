@@ -1,5 +1,25 @@
 # Polymer
 
+This a fork that makes Polymer work as a NPM package and first class citizen in a Javascript workflow with Webpack.
+
+### Install & use
+On terminal
+```
+$ yarn add https://github.com/contactlab/polymer
+```
+
+inside Javascript files
+
+```javascript
+import '@polymer/polymer' // hybryd/legacy Polymer 1.x version
+ --- or ---
+import '@polymer/polymer/polymer-element' // Polymer 2.x
+```
+
+have fun and give feedbacks!
+
+---
+
 [![Build Status](https://travis-ci.org/Polymer/polymer.svg?branch=master)](https://travis-ci.org/Polymer/polymer)
 
 Polymer lets you build encapsulated, reusable elements that work just like standard HTML elements, to use in building web applications.
