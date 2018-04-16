@@ -1,3 +1,5 @@
+# :warning: Deprecated
+
 # Polymer
 
 This a fork that makes Polymer work as a NPM package and first class citizen in a Javascript workflow with Webpack.
