@@ -1,4 +1,4 @@
-# :warning: Deprecated
+# :warning: This project is no longer mantained
 
 # Polymer
 
